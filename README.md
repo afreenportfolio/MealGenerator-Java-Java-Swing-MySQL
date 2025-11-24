@@ -17,7 +17,7 @@ Technologies Used
 3. Tools: VS Code, Java Swing for GUI
 
 Installation
-- Clone the repository: git clone https://github.com/afreenportfolio/mealgenerator.git
+- Clone the repository: git clone https://github.com/afreenportfolio/MealGenerator-Java-Java-Swing-MySQL
 - Set up MySQL: Create database and import schema/tables (e.g., Meals, Ingredients).
 - Add MySQL Connector/J JAR to your classpath.
 - Compile: javac MealGenerator.java
