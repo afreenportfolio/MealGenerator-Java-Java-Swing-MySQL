@@ -1,7 +1,7 @@
 # MealGenerator Java Application
 
 ![Type](https://img.shields.io/badge/Type-Personal_Project-blue) 
-![Status](https://img.shields.io/badge/Status-Completed-green)
+![Status](https://img.shields.io/badge/Status-Archived-grey)
 
 > **Warning**: **This project is currently non-runnable due to known bugs in database connectivity and GUI logic.**  
 > **This repository serves as a documentation showcase** of system design, MySQL integration, and Java Swing UI planning.
