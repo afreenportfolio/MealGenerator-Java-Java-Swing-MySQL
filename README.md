@@ -32,4 +32,5 @@ MealGenerator is a Java-based tool that suggests meals tailored to dietary needs
 - View generated meal lists with details.
 
 ## License
-- MIT License
+
+MIT License
