@@ -20,7 +20,7 @@ MealGenerator is a Java-based tool that suggests meals tailored to dietary needs
 3. Tools: VS Code, Java Swing for GUI
 
 ## Installation
-- Clone the repository: `git clone https://github.com/afreenportfolio/MealGenerator-Java-Java-Swing-MySQL`
+- Clone the repository: `git clone https://github.com/afreenportfolio/meal-generator.git`
 - Set up MySQL: Create database and import schema/tables (e.g., Meals, Ingredients).
 - Add MySQL Connector/J JAR to your classpath.
 - Compile: `javac MealGenerator.java`
